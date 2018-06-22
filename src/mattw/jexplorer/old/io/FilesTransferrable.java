@@ -1,4 +1,4 @@
-package mattw.jexplorer.io;
+package mattw.jexplorer.old.io;
 
 import java.awt.datatransfer.ClipboardOwner;
 import java.awt.datatransfer.DataFlavor;
