@@ -1,0 +1,8 @@
+.split-pane:horizontal *.split-pane-divider {
+    -fx-background-color: gray;
+    -fx-padding: 0 2 0 1;
+    -fx-border-insets: 5px;
+}
+#treeCell {
+    -fx-background-color: gray;
+}
